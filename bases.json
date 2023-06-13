@@ -1,0 +1,68 @@
+{
+    "ArmourBases_T1": [
+        "Eternal Burgonet", "Lion Pelt", "Hubris Circlet", "Nightmare Bascinet", "Bone Helmet", "Prophet Crown", "Deicide Mask",
+        "Spiked Gloves", "Titan Gauntlets", "Slink Gloves", "Gripped Gloves", "Fingerless Silk Gloves", "Sorcerer Gloves", "Dragonscale Gauntlets", "Apothecary's Gloves", "Crusader Gloves", "Murder Mitts",
+        "Titan Greaves", "Slink Boots", "Arcanist Slippers", "Two-Toned Boots", "Dragonscale Boots", "Crusader Boots", "Fugitive Boots", "Murder Boots", 
+        "Glorious Plate", "Astral Plate", "Assassin's Garb", "Zodiac Leather", "Vaal Regalia", "Occultist's Vestment", "Triumphant Lamellar", "Full Dragonscale", "Saintly Chainmail", "Saint's Hauberk", "Carnal Armour", "Sadist Garb", "Blood Raiment", 
+        "Pinnacle Tower Shield", "Colossal Tower Shield", "Ezomyte Tower Shield", "Imperial Buckler", "Crusader Buckler", "Vaal Buckler", "Lacquered Buckler", "Titanium Spirit Shield", "Harmonic Spirit Shield", "Fossilised Spirit Shield", 
+        "Elegant Round Shield", "Cardinal Round Shield", "Archon Kite Shield", "Champion Kite Shield", "Supreme Spiked Shield"
+    ],
+    "ArmourBases_T2": [
+        "Royal Burgonet", "Sinner Tricorne", "Mind Cage", "Pig-Faced Bascinet", "Praetor Crown", "Vaal Mask",
+        "Vaal Gauntlets", "Stealth Gloves", "Arcanist Gloves", "Hydrascale Gauntlets", "Legion Gloves", "Assassin's Mitts",
+        "Vaal Greaves", "Stealth Boots", "Sorcerer Boots", "Hydrascale Boots", "Legion Boots", "Assassin's Boots",
+        "Gladiator Plate", "Exquisite Leather", "Widowsilk Robe", "Triumphant Lamellar", "General's Brigandine", "Elegant Ringmail", "Conquest Chainmail", "Varnished Coat",
+        "Ebony Tower Shield", "Shagreen Tower Shield", "Lacquered Buckler", "Ironwood Buckler", "Vaal Spirit Shield", 
+        "Spiny Round Shield", "Mosaic Kite Shield", "Branded Kite Shield", "Mirrored Spiked Shield"
+    ],
+    "WeaponBases_T1": [
+        "Sambar Sceptre", "Void Sceptre", "Opal Sceptre", 
+        "Gavel", "Auric Mace", "Behemoth Mace",
+        "Imperial Maul", "Karui Maul", "Terror Maul", "Coronal Maul", "Meatgrinder", "Colossus Mallet",
+        "Royal Axe", "Reaver Axe", "Infernal Axe",
+        "Karui Chopper", "Vaal Axe", "Void Axe", "Fleshripper", "Sundering Axe", "Despot Axe",
+        "Legion Sword", "Midnight Blade", "Gladius", "Vaal Blade", "Tiger Hook", "Eternal Sword", "Grappler",
+        "Jewelled Foil", "Pecoraro", "Dragoon Sword", "Harpy Rapier",
+        "Vaal Greatsword", "Lion Sword", "Infernal Sword", "Reaver Sword", "Ezomyte Blade", "Exquisite Blade",
+        "Citadel Bow", "Ranger Bow", "Harbinger Bow", "Assassin Bow", "Thicket Bow", "Maraketh Bow",
+        "Imperial Claw", "Throat Stabber", "Gemini Claw",
+        "Sai", "Ambusher", "Demon Dagger", "Platinum Kris",
+        "Imperial Staff", "Eclipse Staff", "Maelström Staff", "Judgement Staff",
+        "Demon's Horn", "Opal Wand", "Tornado Wand", "Profane Wand", "Prophecy Wand", "Convoking Wand"
+    ],
+    "WeaponBases_T2": [
+        "Carnal Sceptre", "Vaal Sceptre", "Stag Sceptre", "Horned Sceptre",
+        "Pernach", "Nightmare Mace", "Legion Hammer",
+        "Piledriver", "Solar Maul", "Dread Maul", "Plated Maul", "Spiny Maul",
+        "Butcher Axe", "Vaal Hatchet", "Karui Axe",
+        "Ezomyte Axe", "Talon Axe", "Abyssal Axe", "Labrys", "Noble Axe",
+        "Gemstone Sword", "Corsair Sword", "Twilight Blade",
+        "Spiraled Foil", "Vaal Rapier",
+        "Headman's Sword", "Lithe Blade", "Wraith Sword", "Tiger Sword",
+        "Spine Bow", "Imperial Bow", "Steelwood Bow", "Decimation Bow",
+        "Great White Claw", "Eye Gouger", "Vaal Claw",
+        "Gutting Knife", "Trisula", "Ezomyte Dagger", "Imperial Skean",
+        "Primordial Staff", "Lathi", "Moon Staff", "Ezomyte Staff", "Foul Staff",
+        "Imbued Wand", "Heathen Wand", "Coiled Wand", "Convening Wand"
+    ],
+    "ExperimentedBases": [
+        "Maltreatment Axe","Disapprobation Axe","Psychotic Axe","Prime Cleaver","Honed Cleaver","Apex Cleaver",
+        "Hedron Bow","Foundry Bow","Solarine Bow",
+        "Shadow Fangs","Malign Fangs","Void Fangs",
+        "Hollowpoint Dagger","Pressurised Dagger","Pneumatic Dagger",
+        "Flickerflame Blade","Flashfire Blade","Infernal Blade",
+        "Flare Mace","Crack Mace","Boom Mace",
+        "Oscillating Sceptre","Stabilising Sceptre","Alternating Sceptre",
+        "Blunt Force Condenser","Crushing Force Magnifier","Impact Force Propagator",
+        "Transformer Staff","Reciprocation Staff","Battery Staff",
+        "Capacity Rod","Potentiality Rod","Eventuality Rod",
+        "Fickle Spiritblade","Capricious Spiritblade","Anarchic Spiritblade",
+        "Rebuking Blade","Blasting Blade","Banishing Blade",
+        "Assembler Wand","Congregator Wand","Accumulator Wand",
+        "Exothermic Tower Shield","Magmatic Tower Shield","Heat-attuned Tower Shield",
+        "Endothermic Buckler","Polar Buckler","Cold-attuned Buckler",
+        "Exhausting Spirit Shield","Subsuming Spirit Shield","Transfer-attuned Spirit Shield",
+        "Micro-Distillery Belt","Mechalarm Belt",
+        "Simplex Amulet","Astrolabe Amulet",
+        "Cogwork Ring","Geodesic Ring" ]
+}
